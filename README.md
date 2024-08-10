@@ -52,6 +52,7 @@ I have worked on various projects involving data analysis, creating dashboards, 
 
 ## 🚀 Projects
 
+
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-isaac-3a6a82203) 
