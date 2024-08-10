@@ -31,7 +31,7 @@ I am a data and business analyst with over four years of experience in analyzing
 
 ## 📄 Resume
 
-You can view or download my resume [here]([https://your-resume-link.com](https://drive.google.com/drive/folders/1YXDiXXSuqZQ524BYcyCE3mJvsnd3COgV)) 📁.
+You can view or download my resume ([https://your-resume-link.com](https://drive.google.com/drive/folders/1YXDiXXSuqZQ524BYcyCE3mJvsnd3COgV)) 📁.
 
 ## 🎓 Academic Qualifications
 
