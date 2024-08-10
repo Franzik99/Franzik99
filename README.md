@@ -27,7 +27,19 @@ I am a data and business analyst with over four years of experience in analyzing
 - 💼 **Experience:** 4+ years in Data & Business Analysis
 - 🔍 **Specialties:** Data visualization, Data analysis, Dashboard creation, Business insights
 - 💡 **Tools:** Excel, Power BI, SQL, MySQL, PostgreSQL, Python, Alteryx
-- 🌱 **Currently Learning:** Advanced Machine Learning techniques, Data Engineering concepts
+- 🌱 **Currently Learning:** Advanced Machine Learning techniques, Data Engineering concepts.
+
+## 📄 Resume
+
+You can view or download my resume [here]([https://your-resume-link.com](https://drive.google.com/drive/folders/1YXDiXXSuqZQ524BYcyCE3mJvsnd3COgV)) 📁.
+
+## 🎓 Academic Qualifications
+
+- **M.Sc. in Data Analytics** - Aston University, Sep 2023.
+- **Certification** - [Google Analytics 2023], [Data Analytics IBM 2024], [SQL for Data Analytics,Data Science & Visualisation].
+- **Relevant Coursework:** Modules: Algorithm and Computational Mathematics, Artificial Neural Networks, Data Sci Programming (Python, R)[**House Prices in Birmingham UK**], Network Science, Probabilistic Modeling, Statistical Machine Learning and Understanding Data(**Recommender System**).
+
+
 
 ## My Work
 
