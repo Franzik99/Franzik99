@@ -50,6 +50,8 @@ I have worked on various projects involving data analysis, creating dashboards, 
 - **Data Analysis Projects:** Utilized SQL and Python to analyze complex datasets and present findings.
 - **Process Automation:** Automated data processing tasks using Python and Alteryx to increase efficiency.
 
+## 🚀 Projects
+
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-isaac-3a6a82203) 
