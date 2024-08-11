@@ -51,6 +51,14 @@ I have worked on various projects involving data analysis, creating dashboards, 
 - **Process Automation:** Automated data processing tasks using Python and Alteryx to increase efficiency.
 
 ## 🚀 Projects
+### 1. [Project Name 1](https://github.com/YourUsername/Project1)
+![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1&theme=navy)
+
+**Description:** Brief description of what this project is about. Highlight key features, technologies used, and what makes it special.
+
+**Technologies Used:** 
+- SQL
+- Power BI
 
 
 ## Let's Connect!
