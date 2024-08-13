@@ -52,7 +52,7 @@ I have worked on various projects involving data analysis, creating dashboards, 
 - **Process Automation:** Automated data processing tasks using Python and Alteryx to increase efficiency.
 
 ## 🚀 Projects
-### - [BIKE SALES](https://github.com/Franzik99/Bike-Stores)
+###  [BIKE SALES](https://github.com/Franzik99/Bike-Stores)
 ![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Franzik99&repo=Bike-Stores&theme=navy)
 
 **Description:** The Bike Store relational database is a sample dataset ideal for SQL learners to practice and enhance their querying skills. It consists of nine (9) Relational DataBase that cover various aspects of a retail bike store, including brands, categories, customer information, orders, order items, products, stores, staff, and stock levels. This comprehensive dataset allows users to explore complex relationships within a business context, making it an excellent resource for mastering SQL and relational database concepts.
