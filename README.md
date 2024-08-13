@@ -60,6 +60,7 @@ I have worked on various projects involving data analysis, creating dashboards, 
 **Technologies Used:** 
 - SQL
 - Power BI
+- Azure Data Studio
 
 
 ## Let's Connect!
