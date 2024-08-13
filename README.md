@@ -2,6 +2,7 @@
   <img src="https://via.placeholder.com/1000x200/0E76A8/FFFFFF?text=Welcome+to+My+GitHub+Profile!" alt="Header Image" width="1000" height="200">
 </div>
 
+
 # <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=34&duration=4000&pause=1000&color=000080&center=true&vCenter=true&width=550&lines=Francis+Osemeke+Isaac" alt="Typing SVG"></a>
 
 
