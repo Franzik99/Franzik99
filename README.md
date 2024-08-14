@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x200/0E76A8/FFFFFF?text=Welcome+to+My+GitHub+Profile!" alt="Header Image" width="1000" height="200">
+  <img src="https://via.placeholder.com/1000x200/0E76A8/FFFFFF?text=Welcome+to+My+Data Ecosystem+Profile!" alt="Header Image" width="1000" height="200">
 </div>
 
 
