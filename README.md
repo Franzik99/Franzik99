@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Alteryx-2AACE2?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx">
     <img src="https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Tableau">
+  <img src="https://img.shields.io/badge/HTML-00758F?style=for-the-badge&logo=postgresql&logoColor=white" alt="HTML">
 </div>
 
 ## About Me
