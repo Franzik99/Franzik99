@@ -36,6 +36,8 @@ I am a data and business analyst with over four years of experience in analyzing
 
 You can view or download my resume ([https://your-resume-link.com](https://drive.google.com/drive/folders/1YXDiXXSuqZQ524BYcyCE3mJvsnd3COgV)) 📁.
 
+## Portfolio (https://franzik99.github.io/FrancisisaacPortfolio/)
+
 ## 🎓 Academic Qualifications
 
 - **M.Sc. in Data Analytics** - Aston University, Sep 2023.
